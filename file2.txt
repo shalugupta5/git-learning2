@@ -4,3 +4,4 @@ checking the branch
 5
 6 from feature-login2
 7 from feature-login2
+8 from feature-login to test git merge and rebase
